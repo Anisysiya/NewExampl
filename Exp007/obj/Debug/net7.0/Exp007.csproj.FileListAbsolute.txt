@@ -1,0 +1,15 @@
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\obj\Debug\net7.0\Exp007.csproj.AssemblyReference.cache
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\obj\Debug\net7.0\Exp007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\obj\Debug\net7.0\Exp007.AssemblyInfoInputs.cache
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\obj\Debug\net7.0\Exp007.AssemblyInfo.cs
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\obj\Debug\net7.0\Exp007.csproj.CoreCompileInputs.cache
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\bin\Debug\net7.0\Exp007.exe
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\bin\Debug\net7.0\Exp007.deps.json
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\bin\Debug\net7.0\Exp007.runtimeconfig.json
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\bin\Debug\net7.0\Exp007.dll
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\bin\Debug\net7.0\Exp007.pdb
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\obj\Debug\net7.0\Exp007.dll
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\obj\Debug\net7.0\refint\Exp007.dll
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\obj\Debug\net7.0\Exp007.pdb
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\obj\Debug\net7.0\Exp007.genruntimeconfig.cache
+C:\Users\vagiz\OneDrive\Документы\Project\Учеба\Example\Exp007\obj\Debug\net7.0\ref\Exp007.dll
